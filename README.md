@@ -6,8 +6,12 @@
 
 ## Example Inference
 
-![Inference Example 1](dbnet_inference_res1.png)  
-![Inference Example 2](dbnet_inference_res1.png)  
+<table>
+  <tr>
+    <td><img src="dbnet_inference_res1.png" alt="Inference Example 1" width="300"/></td>
+    <td><img src="dbnet_inference_res2.png" alt="Inference Example 2" width="600"/></td>
+  </tr>
+</table>
 
 ## Usage
 
