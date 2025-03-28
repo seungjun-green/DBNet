@@ -44,7 +44,6 @@ class BasicBlock(nn.Module):
 
         return out
 
-
 class BottleneckBlock(nn.Module):
     expansion = 4
 
